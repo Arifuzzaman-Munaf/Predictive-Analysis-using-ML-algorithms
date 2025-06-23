@@ -3,3 +3,5 @@
 
 # Ignore .gitignore file
 .gitignore
+dataset/winequality-red.csv
+dataset/winequality-white.csv
