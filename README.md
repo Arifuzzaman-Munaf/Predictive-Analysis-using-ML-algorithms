@@ -138,9 +138,3 @@ You need **Python 3.8+** installed on your system. Using a **virtual environment
 This project is licensed under the **MIT License**. See the `LICENSE` file for full details.
 
 ---
-
-## ✉️ Contact
-
-**[Your Name/Alias]** - [Your Email Address]
-
-Project Link: [https://github.com/[YOUR_USERNAME]/predictive-analysis-using-ml-algorithms](https://github.com/[YOUR_USERNAME]/predictive-analysis-using-ml-algorithms)
