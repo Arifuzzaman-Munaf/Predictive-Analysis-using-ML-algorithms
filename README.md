@@ -11,16 +11,17 @@ This repository is a collection of three distinct machine learning projects ("as
     * [1. Assessment 01: Wine Quality Regression](#1-assessment-01-wine-quality-regression)
     * [2. Assessment 02: Wine Quality Classification](#2-assessment-02-wine-quality-classification)
     * [3. Assessment 03: Bike Share Demand Regression](#3-assessment-03-bike-share-demand-regression)
-3.  [Setup and Installation](#-setup-and-installation)
+3. [Algorithms](#-algorithms)
+4.  [Setup and Installation](#-setup-and-installation)
     * [Prerequisites](#prerequisites)
     * [Environment Setup](#environment-setup)
     * [Running the Projects](#running-the-projects)
-4.  [License](#-license)
-5.  [Contact](#-contact)
+5.  [License](#-license)
+6.  [Contact](#-contact)
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ### The repository is organized to clearly separate the main project notebooks from the data and configuration files.
     predictive-analysis-using-ml-algorithms/ 
@@ -65,6 +66,44 @@ This repository is a collection of three distinct machine learning projects ("as
 * **Methodology Focus:** Advanced data transformation to normalize non-Gaussian features and dimensionality reduction to handle potential multicollinearity and improve model generalization.
 * **Key Techniques:** **Yeo-Johnson Power Transformation**, **Principal Component Analysis (PCA)**, Cross-Validation, Ensemble Regression (Gradient Boosting, Extra Trees).
 * **Dataset:** Bike Sharing Dataset (Daily-level data) from the UCI ML Repository.
+
+
+---
+
+## Algorithms 
+
+### Regression Algorithms (Used in Assessments 01 & 03)
+      Ridge Regression
+      
+      Lasso Regression
+      
+      ElasticNet Regression
+      
+      LinearSVR (Support Vector Regression)
+      
+      XGBoost Regressor (Extreme Gradient Boosting)
+      
+      LightGBM Regressor (Light Gradient Boosting Machine)
+      
+      Gradient Boosting Regressor
+      
+      Random Forest Regressor
+      
+      Extra Trees Regressor
+
+### Classification Algorithms (Used in Assessment 02)
+      Logistic Regression
+      
+      Decision Trees
+      
+      Random Forest Classifier
+      
+      XGBoost Classifier
+      
+      Support Vector Machines (SVC)
+      
+      MLP (Multi-Layer Perceptron) Classifier
+
 
 ---
 
